@@ -20,3 +20,10 @@ public class Percent{
       System.out.println(sum+"  100.0%");
     }
   }
+/script SelectGossipAvailableQuest(1)
+/script CompleteQuest()
+/script GetQuestReward()
+while(iter.hasNext()){
+  SYstem.out.println(iter.next()+" "+(Interger)iter.next()/sum*100)+"%");
+  
+}
